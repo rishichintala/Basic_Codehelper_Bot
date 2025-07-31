@@ -1,5 +1,4 @@
 # TeamsFx files
-env/
 env/.env.*.user
 env/.env.local
 env/.env.dev
@@ -9,7 +8,7 @@ env/.env.playground
 .notification.localstore.json
 .notification.playgroundstore.json
 appPackage/build
-
+env*
 # dependencies
 node_modules/
 
