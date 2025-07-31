@@ -21,4 +21,5 @@ lib/
 # Dev tool directories
 /devTools/
 .env.example
-env
+env/.env.dev
+env/.env.playground
