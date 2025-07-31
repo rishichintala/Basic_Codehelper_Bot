@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "lib": ["es2019"],
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "outDir": "./lib",
+    "rootDir": "./",
+    "declaration": true,
+    "esModuleInterop": true
+  },
+  "include": ["*.ts"],
+  "exclude": ["lib"]
+}
